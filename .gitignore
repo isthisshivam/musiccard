@@ -1,0 +1,7 @@
+node_modules
+Pods
+android/.gradle
+android/.idea
+android/app/build
+package-lock.json
+*.lock
